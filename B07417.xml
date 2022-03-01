@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commendation of Rabbi Rubens original seking Ebrew Gospel from Albion to be kept for posterity by the L L. care: A monument against a sonne of Belial: who hindred the proceding of a most glorious cause: to call the curse of Iewes &amp; Gentiles to light vpon him..</title>
+            <author>Broughton, Hugh, 1549-1612.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1611</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07417</idno>
+            <idno type="OCLC"> 166384373</idno>
+            <idno type="STC">STC 3848.5</idno>
+            <idno type="STC">ESTC S91222</idno>
+            <idno type="EEBO-CITATION">166384373</idno>
+            <idno type="OCLC">ocn 166384373</idno>
+            <idno type="VID">191506</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191506)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2268:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commendation of Rabbi Rubens original seking Ebrew Gospel from Albion to be kept for posterity by the L L. care: A monument against a sonne of Belial: who hindred the proceding of a most glorious cause: to call the curse of Iewes &amp; Gentiles to light vpon him..</title>
+                  <author>Broughton, Hugh, 1549-1612.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Middelburg? :</pubPlace>
+                  <date>1611, Decemb. 2..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. [7]: H. Broughton.</note>
+                  <note>Place of publication suggested by STC (2nd ed.).</note>
+                  <note>No signatures.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judaism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191506:1"/>
+            <p>A commendation of <hi>Rabbi Rubens orginal ſeking Ebrew Goſpel from Albion to be kept for Poſterity by the LL. care:</hi>
+            </p>
+            <p>A monument againſt a ſonne of Be<g ref="char:EOLhyphen"/>lial: who hindred the proceding of a moſt glorious cauſe: to call the curſe of Iewes &amp; Gentiles to light vpon him.</p>
+            <p n="1611">1611<g ref="char:punc">▪</g> Decemb. 2.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191506:2"/>
+            <pb facs="tcp:191506:2"/>
+            <p>I mentioned R. H. in a commentarie vpon the Apocalyps a libeller in the depth of Atheiſme, who libelled that the Iewes Epiſtle, which ſome of your Lordſhips ſaw ſent from Byzantian Rome, or Con<g ref="char:EOLhyphen"/>ſtantinus towne, to London, &amp; bade ſend it thence for Baſil to me: He libelled that I feigned the matter. Here vpon I haue complayned to God &amp; the world in many the hi<g ref="char:EOLhyphen"/>gheſt degrees. The very Iew prayſed God, that from the endes of the Earth hee heard the prayſes of the
+<pb facs="tcp:191506:3"/> Eternall<g ref="char:punc">▪</g>, &amp; ſayd: from Eſay hee loked to heare that, from the endes of the earth. How honorable &amp; how thankfull Engliſh haue bene I can tell: that all the Gold they gaue me was ſo liquide: that I could poure it into myne ey, &amp; ſee never an whit the worſe. All forraine townes of my ſtay yea Popiſh, wold in my faith geven content to dye with them. The higheſt ſlauunder that ever could bee in the world was this: that I ſhould forge a Iewes letter ſe<g ref="char:EOLhyphen"/>king Ebrew Goſpel from vs. They had triumphed: that Chriſt, &amp; Prin<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:191506:3"/> wold not preſently kill ſuch an Athean vilain. The falſe accuſer by Moyſes muſt bee in place: &amp; after conviction the iudges: not geving right. But iudges are not to take no<g ref="char:EOLhyphen"/>tion of the Party without accuſa<g ref="char:EOLhyphen"/>tion &amp; profe. The libeller hath hinde<g ref="char:EOLhyphen"/>red now fiften yeres adva<g ref="char:cmbAbbrStroke">̄</g>tage to haue cleared the Goſpell in Ebrew from Albion over all, &amp; hath ſtird ma<g ref="char:EOLhyphen"/>ny to rave againſt Ebrew inſtitutions in ſteed of thankes: that many ſay, the Iewes time is not yet come. And ſome vow their childre<g ref="char:cmbAbbrStroke">̄</g> to my courſe of Ebrew: &amp; requeſted all my E<g ref="char:EOLhyphen"/>brew
+<pb facs="tcp:191506:4"/> Library that when I am dead, they may mark my hand how I marked Thalmudiques. An hun<g ref="char:EOLhyphen"/>dreth yeres hence this matter may come into ſpech. And becauſe the libeller muſt be confuted by the ve<g ref="char:EOLhyphen"/>ry original of the Iewes Epiſtle, I haue ſent your Lordſhips that: to be kept in the Kings Library for euer: Paſted with an Arabique book: that the few leaues being a lone ſhould not be waſted. I doubt not but your Lordſhips in an honour geve<g ref="char:cmbAbbrStroke">̄</g> to your countrey in ſo high an argument, will ſee that the Iewes originall ſhall bee
+<pb facs="tcp:191506:4"/> kept as any the beſt recordes. And yf the libeller can be found out, &amp; proved who hee is: I doubt not but your Lordſhips will wiſh the Eter<g ref="char:EOLhyphen"/>nall curſe of God, vpon the libeller for Athean villany: &amp; not vpon your ſelfes for countenancing the vnde<g ref="char:EOLhyphen"/>ſerving in higheſt degree of badnes.</p>
+            <closer>
+               <signed>Your Lordſhips, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> H. BROVGHTON.</signed>
+            </closer>
+            <pb facs="tcp:191506:5"/>
+            <pb facs="tcp:191506:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
